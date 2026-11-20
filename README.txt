@@ -1,4 +1,7 @@
 # Penguins Species Classification
+*Academic project originally developed as part of a group assignment 
+for the Statistical Learning course.*
+
 
 ## Overview
 
